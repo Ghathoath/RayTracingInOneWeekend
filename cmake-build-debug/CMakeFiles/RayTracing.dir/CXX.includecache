@@ -39,9 +39,9 @@ hittable_list.h
 D:/3File/RayTracing/hittable_list.h
 sphere.h
 D:/3File/RayTracing/sphere.h
-iostream
--
 fstream
+-
+iostream
 -
 
 D:/3File/RayTracing/ray.h
