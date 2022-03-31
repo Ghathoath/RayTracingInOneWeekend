@@ -1,12 +1,16 @@
 #ifndef RAYTRACING_HITTABLE_H
 #define RAYTRACING_HITTABLE_H
 
+#include "rtweekend.h"
 #include "ray.h"
 
+class material;
+
 struct hit_record{
-    point3 p;
-    vec3 normal;
-    double t;
+    point3 p;           // 交点
+    vec3 normal;        // 法线
+    shared_ptr<material> mat_ptr;
+    double t;           // 距离
     bool front_face;
 
     inline void set_face_normal(const ray& r,const vec3& outward_normal) {

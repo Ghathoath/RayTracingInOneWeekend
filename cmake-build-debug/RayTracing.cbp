@@ -95,6 +95,9 @@
 		<Unit filename="D:/3File/RayTracing/main.cpp">
 			<Option target="RayTracing"/>
 		</Unit>
+		<Unit filename="D:/3File/RayTracing/material.h">
+			<Option target="RayTracing"/>
+		</Unit>
 		<Unit filename="D:/3File/RayTracing/ray.h">
 			<Option target="RayTracing"/>
 		</Unit>

@@ -6,6 +6,7 @@ CMakeFiles/RayTracing.dir/main.cpp.obj: ../color.h
 CMakeFiles/RayTracing.dir/main.cpp.obj: ../hittable.h
 CMakeFiles/RayTracing.dir/main.cpp.obj: ../hittable_list.h
 CMakeFiles/RayTracing.dir/main.cpp.obj: ../main.cpp
+CMakeFiles/RayTracing.dir/main.cpp.obj: ../material.h
 CMakeFiles/RayTracing.dir/main.cpp.obj: ../ray.h
 CMakeFiles/RayTracing.dir/main.cpp.obj: ../rtweekend.h
 CMakeFiles/RayTracing.dir/main.cpp.obj: ../sphere.h
